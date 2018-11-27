@@ -33,4 +33,8 @@
 
 Настройки генератора для A_USER:
 
+![3](https://user-images.githubusercontent.com/18438169/49077300-8023ff80-f26d-11e8-8919-10155e4bcbb9.PNG)
+
+Настройки генератора для A_Dogovor:
+
 
