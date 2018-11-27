@@ -66,8 +66,16 @@ ___
 Файл с результатом: 
 [ROLLUP по 1 атрибуту.txt](https://github.com/Fenrik/Leshchev-Nikita/files/2619614/ROLLUP.1.txt)
 
+**Запрос ROLLUP по 2 атрибутам:**
 
+![rollup 2](https://user-images.githubusercontent.com/18438169/49078230-093c3600-f270-11e8-96fe-2ffa7ad2380a.PNG)
 
+![9](https://user-images.githubusercontent.com/18438169/49078239-0f321700-f270-11e8-8166-91b2b504adc3.PNG)
+
+![10](https://user-images.githubusercontent.com/18438169/49078241-10634400-f270-11e8-9cc2-7f263531fc81.PNG)
+
+Файл с результатом: 
+[ROLLUP по 2 атрибутам.txt](https://github.com/Fenrik/Leshchev-Nikita/files/2619622/ROLLUP.2.txt)
 
 
 
