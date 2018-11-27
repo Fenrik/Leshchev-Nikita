@@ -45,3 +45,9 @@
 Файл сгенерированных данных для A_DOGOVOR:
 [Dogovors.xlsx](https://github.com/Fenrik/Leshchev-Nikita/files/2619576/Dogovors.xlsx)
 
+# 3. результат заполнения таблиц
+
+A_DOGOVOR:
+
+
+A_USER:
