@@ -28,6 +28,7 @@
 * "ADRESS" - адрес;
 * "TEL_NUMBER" - № телефона.
 ___
+
 # 2. Генерация данных в таблицы
 Для генерации данных был использовался онлайн ресурс: https://www.mockaroo.com.
 
@@ -45,6 +46,7 @@ ___
 Файл сгенерированных данных для A_DOGOVOR:
 [Dogovors.xlsx](https://github.com/Fenrik/Leshchev-Nikita/files/2619576/Dogovors.xlsx)
 ___
+
 # 3. Результат заполнения таблиц
 
 A_DOGOVOR:
@@ -55,6 +57,7 @@ A_USER:
 
 ![5](https://user-images.githubusercontent.com/18438169/49077809-d80f3600-f26e-11e8-9d8e-4e02fbeb0a8b.PNG)
 ___
+
 # 4. Примеры выполнения запросов
 
 **Запрос ROLLUP по 1 атрибуту:**
@@ -96,5 +99,19 @@ ___
 
 Файл с результатом: 
 [SUM.txt](https://github.com/Fenrik/Leshchev-Nikita/files/2619629/SUM.txt)
+___
 
+# 5. Заключение
 
+В результате работы:
+
+* Развернута БД Oracle 11g;
+* К БД Oracle 11g подключён Oracle SQL Developer;
+* Созданы таблицы "A_DOGOVOR" и "A_USER" для предметной области - Интернет-провайдер;
+* Сгенерированы и заполнены данные для таблиц БД; 
+* Для таблиц "A_DOGOVOR" и "A_USER" было выполнено несколько запросов.
+
+В работе было использовано следующие ПО:
+
+* БД Oracle 11g;
+* Oracle SQL Developer.
