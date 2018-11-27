@@ -49,5 +49,9 @@
 
 A_DOGOVOR:
 
+![7](https://user-images.githubusercontent.com/18438169/49077804-d5144580-f26e-11e8-81d2-ed05f14bd070.PNG)
 
 A_USER:
+
+
+
