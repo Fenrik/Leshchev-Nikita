@@ -27,7 +27,7 @@
 * "PASPORT" - № паспорта;
 * "ADRESS" - адрес;
 * "TEL_NUMBER" - № телефона.
-
+___
 # 2. Генерация данных в таблицы
 Для генерации данных был использовался онлайн ресурс: https://www.mockaroo.com.
 
@@ -44,8 +44,8 @@
 
 Файл сгенерированных данных для A_DOGOVOR:
 [Dogovors.xlsx](https://github.com/Fenrik/Leshchev-Nikita/files/2619576/Dogovors.xlsx)
-
-# 3. результат заполнения таблиц
+___
+# 3. Результат заполнения таблиц
 
 A_DOGOVOR:
 
@@ -53,5 +53,6 @@ A_DOGOVOR:
 
 A_USER:
 
-
-
+![5](https://user-images.githubusercontent.com/18438169/49077809-d80f3600-f26e-11e8-9d8e-4e02fbeb0a8b.PNG)
+___
+# 4. Примеры выполнения запросов
