@@ -59,6 +59,12 @@ ___
 
 **Запрос ROLLUP по 1 атрибуту:**
 
+![rollup 1](https://user-images.githubusercontent.com/18438169/49078054-929f3880-f26f-11e8-9a4f-2f3b491c3012.PNG)
+
+![8](https://user-images.githubusercontent.com/18438169/49078071-9af77380-f26f-11e8-9ee7-73564a2a9799.PNG)
+
+Файл с результатом: 
+[ROLLUP по 1 атрибуту.txt](https://github.com/Fenrik/Leshchev-Nikita/files/2619614/ROLLUP.1.txt)
 
 
 
