@@ -31,10 +31,11 @@
 # 2. Генерация данных в таблицы
 Для генерации данных был использовался онлайн ресурс: https://www.mockaroo.com.
 
-Настройки генератора для A_USER:
+**Настройки генератора для A_USER:**
 
 ![3](https://user-images.githubusercontent.com/18438169/49077300-8023ff80-f26d-11e8-8919-10155e4bcbb9.PNG)
 
-Настройки генератора для A_Dogovor:
+**Настройки генератора для A_Dogovor:**
 
+![6](https://user-images.githubusercontent.com/18438169/49077372-b1043480-f26d-11e8-83cf-202a6a14d5b5.PNG)
 
