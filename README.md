@@ -56,3 +56,14 @@ A_USER:
 ![5](https://user-images.githubusercontent.com/18438169/49077809-d80f3600-f26e-11e8-9d8e-4e02fbeb0a8b.PNG)
 ___
 # 4. Примеры выполнения запросов
+
+**Запрос ROLLUP по 1 атрибуту:**
+
+
+
+
+
+
+
+
+
