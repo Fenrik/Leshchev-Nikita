@@ -82,10 +82,14 @@ ___
 
 **Запрос GROUPING:**
 
+![1](https://user-images.githubusercontent.com/18438169/49856751-3e758600-fe23-11e8-80c2-ddbdda32ba43.PNG)
 
+![2](https://user-images.githubusercontent.com/18438169/49856759-41707680-fe23-11e8-8170-090ef15d6aff.PNG)
 
+![3](https://user-images.githubusercontent.com/18438169/49856765-433a3a00-fe23-11e8-83bf-8029eead78b4.PNG)
 
-
+Файл с результатом:
+[GROUPING2.txt](https://github.com/Fenrik/Leshchev-Nikita/files/2671032/GROUPING2.txt)
 
 **Запрос SUM:**
 
